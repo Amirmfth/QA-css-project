@@ -8,6 +8,7 @@
     border-radius: 8px;
     margin: 3rem;
     width: 200px;
+    overflow: hidden;
 }
 img{
     width: 100%;
